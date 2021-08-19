@@ -30,7 +30,7 @@ func main() {
 		Email: "abcdef",
 	}
 	user2 := User {
-		Name: "Ivan",
+		Name: "VANYUSHA",
 		Email: "qwerty",
 	}
 	users := []User{
